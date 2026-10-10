@@ -1,0 +1,10 @@
+D:\LT.NET\BTHs2\BTHs2\bin\Debug\BTHs2.exe.config
+D:\LT.NET\BTHs2\BTHs2\bin\Debug\BTHs2.exe
+D:\LT.NET\BTHs2\BTHs2\bin\Debug\BTHs2.pdb
+D:\LT.NET\BTHs2\BTHs2\obj\Debug\BTHs2.csproj.AssemblyReference.cache
+D:\LT.NET\BTHs2\BTHs2\obj\Debug\BTHs2.Form1.resources
+D:\LT.NET\BTHs2\BTHs2\obj\Debug\BTHs2.Properties.Resources.resources
+D:\LT.NET\BTHs2\BTHs2\obj\Debug\BTHs2.csproj.GenerateResource.cache
+D:\LT.NET\BTHs2\BTHs2\obj\Debug\BTHs2.csproj.CoreCompileInputs.cache
+D:\LT.NET\BTHs2\BTHs2\obj\Debug\BTHs2.exe
+D:\LT.NET\BTHs2\BTHs2\obj\Debug\BTHs2.pdb

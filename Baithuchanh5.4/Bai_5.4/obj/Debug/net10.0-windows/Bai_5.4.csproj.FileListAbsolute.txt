@@ -1,0 +1,16 @@
+D:\LT.NET\Bai_5.4\Bai_5.4\bin\Debug\net10.0-windows\Bai_5.4.exe
+D:\LT.NET\Bai_5.4\Bai_5.4\bin\Debug\net10.0-windows\Bai_5.4.deps.json
+D:\LT.NET\Bai_5.4\Bai_5.4\bin\Debug\net10.0-windows\Bai_5.4.runtimeconfig.json
+D:\LT.NET\Bai_5.4\Bai_5.4\bin\Debug\net10.0-windows\Bai_5.4.dll
+D:\LT.NET\Bai_5.4\Bai_5.4\bin\Debug\net10.0-windows\Bai_5.4.pdb
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5._4.Form1.resources
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.csproj.GenerateResource.cache
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.AssemblyInfoInputs.cache
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.AssemblyInfo.cs
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.csproj.CoreCompileInputs.cache
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.dll
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\refint\Bai_5.4.dll
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.pdb
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\Bai_5.4.genruntimeconfig.cache
+D:\LT.NET\Bai_5.4\Bai_5.4\obj\Debug\net10.0-windows\ref\Bai_5.4.dll

@@ -1,0 +1,10 @@
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\bin\Debug\BaithuchanhBAI1.exe.config
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\bin\Debug\BaithuchanhBAI1.exe
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\bin\Debug\BaithuchanhBAI1.pdb
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\obj\Debug\BaithuchanhBAI1.csproj.AssemblyReference.cache
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\obj\Debug\BaithuchanhBAI1.Form1.resources
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\obj\Debug\BaithuchanhBAI1.Properties.Resources.resources
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\obj\Debug\BaithuchanhBAI1.csproj.GenerateResource.cache
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\obj\Debug\BaithuchanhBAI1.csproj.CoreCompileInputs.cache
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\obj\Debug\BaithuchanhBAI1.exe
+D:\LT.NET\BaithuchanhBAI1\BaithuchanhBAI1\obj\Debug\BaithuchanhBAI1.pdb

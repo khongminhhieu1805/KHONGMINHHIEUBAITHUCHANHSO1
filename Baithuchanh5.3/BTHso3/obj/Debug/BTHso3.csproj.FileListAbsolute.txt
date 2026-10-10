@@ -1,0 +1,10 @@
+D:\LT.NET\BTHso3\BTHso3\bin\Debug\BTHso3.exe.config
+D:\LT.NET\BTHso3\BTHso3\bin\Debug\BTHso3.exe
+D:\LT.NET\BTHso3\BTHso3\bin\Debug\BTHso3.pdb
+D:\LT.NET\BTHso3\BTHso3\obj\Debug\BTHso3.csproj.AssemblyReference.cache
+D:\LT.NET\BTHso3\BTHso3\obj\Debug\BTHso3.Form1.resources
+D:\LT.NET\BTHso3\BTHso3\obj\Debug\BTHso3.Properties.Resources.resources
+D:\LT.NET\BTHso3\BTHso3\obj\Debug\BTHso3.csproj.GenerateResource.cache
+D:\LT.NET\BTHso3\BTHso3\obj\Debug\BTHso3.csproj.CoreCompileInputs.cache
+D:\LT.NET\BTHso3\BTHso3\obj\Debug\BTHso3.exe
+D:\LT.NET\BTHso3\BTHso3\obj\Debug\BTHso3.pdb
